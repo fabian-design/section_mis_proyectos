@@ -73,6 +73,15 @@
             opacity: 1;
             bottom: 0;
         }
+
+.fecha-actual{
+    text-align:center;
+    font-size:16px;
+    color:#888;
+    margin-top:-10px;
+    margin-bottom:35px;
+    font-style:italic;
+}
    
     
       
